@@ -1,3 +1,5 @@
+if (global.xyzer) return;
+
 var domain = require('domain');
 var path = require('path');
 
